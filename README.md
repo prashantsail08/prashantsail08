@@ -7,12 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsail08&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsail08" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently doing Internship as **Jr Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prashantsail08](https://github.com/prashantsail08)
 
 - 📫 How to reach me **prashantsail86420@gmail.com**
-- My Resume  [Resume](https://drive.google.com/file/d/16pTvKsb-RN_gbt0OCPI8hFXMgq7Mm1Ev/view?usp=drive_link)
+- 
+- 📑 [My Resume](https://drive.google.com/file/d/16pTvKsb-RN_gbt0OCPI8hFXMgq7Mm1Ev/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
