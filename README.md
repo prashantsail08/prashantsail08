@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/prashantsail08](https://github.com/prashantsail08)
 
 - 📫 How to reach me **prashantsail86420@gmail.com**
+- My Resume  https://drive.google.com/file/d/16pTvKsb-RN_gbt0OCPI8hFXMgq7Mm1Ev/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
